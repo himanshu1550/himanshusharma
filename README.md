@@ -23,7 +23,7 @@ Step 3. Subtract the original number the sum like 1245-12=1233
 Step 4. Try to divide it by "9" it will always be completely divisible by 9.
 Don't believe me try it yourself. Start with 10<->inifity. 
 
-4. Lis 
+4. If you have observed a series like 1, 2, 4, 8, 7, 5, 1,2.... And the series continues like this keep on repeating itself. Actually this is obtained by doubling the number. Like 1 doubles 2, 2 doubles 4, 4 doubles 8, 8 doubles 16(1+6)or 7, 16 doubles 32(3+2) or 5 and continues. 
 
  4. The Black Hole has so intense Gravatationla pull 
 
